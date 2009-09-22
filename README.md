@@ -1,9 +1,9 @@
 Newsletter Export Script für Magento
 ====================================
-Digineo GmbH 2009 | www.digineo.de
-Author: Tim Kretschmer
-Version 1.0
-Lizenz: GNU 3
+    Digineo GmbH 2009 | www.digineo.de
+    Author: Tim Kretschmer
+    Version 1.0
+    Lizenz: GNU 3
 
 
 1. Installation
